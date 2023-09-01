@@ -1,7 +1,7 @@
 name: Atividade 1
 type: dart
 steps:
-  - name: Exercício
+  - name: Step 1
     directory: step_01
     has_solution: true
   # - name: Step 2
